@@ -1,4 +1,5 @@
-## 💫 About Me<br><br>🔭 I’m currently working on DevOps, Cloud Infrastructure, CI/CD Automation & Observability<br><br>👯 I’m looking to collaborate on DevOps, Cloud-Native, Kubernetes & AI-Driven Automation Projects<br><br>🤝 I’m looking for help with Advanced Kubernetes, SRE Practices & AIOps<br><br>🌱 I’m currently learning AI-Driven DevOps, Platform Engineering & Cloud-Native Technologies<br><br>💬 Ask me about AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions, Linux, CloudWatch & New Relic<br><br>⚡ Fun fact: I automate everything I can, because if it happens twice, it deserves a script!
+# 💫 About Me:
+🔭 I’m currently working on DevOps, cloud infrastructure, CI/CD automation, and observability. 👯 I’m looking to collaborate on cloud-native, Kubernetes, and AI-driven automation projects. 🤝 I’m looking for help with advanced Kubernetes, SRE practices, and AIOps. 🌱 I’m currently learning AI-driven DevOps, Platform Engineering, and cloud-native technologies. 💬 Ask me about AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions, Linux, CloudWatch, and New Relic. ⚡ Fun fact: I love automating repetitive tasks and turning complex infrastructure challenges into reliable, scalable solutions!
 
 
 ## 🌐 Socials:
@@ -10,6 +11,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=koppulaganesh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=koppulaganesh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=koppulaganesh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=koppulaganesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://komarev.com/ghpvc/?username=koppulaganesh&icon=0&color=0)](https://visitcount.itsvg.in)
