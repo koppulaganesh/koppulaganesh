@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 💫 About Me<br><br>🔭 I’m currently working on DevOps, Cloud Infrastructure, CI/CD Automation & Observability<br><br>👯 I’m looking to collaborate on DevOps, Cloud-Native, Kubernetes & AI-Driven Automation Projects<br><br>🤝 I’m looking for help with Advanced Kubernetes, SRE Practices & AIOps<br><br>🌱 I’m currently learning AI-Driven DevOps, Platform Engineering & Cloud-Native Technologies<br><br>💬 Ask me about AWS, Azure, Docker, Kubernetes, Jenkins, Terraform, Ansible, GitHub Actions, Linux, CloudWatch & New Relic<br><br>⚡ Fun fact: I automate everything I can, because if it happens twice, it deserves a script!
 
 
